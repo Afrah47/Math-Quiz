@@ -1,0 +1,11 @@
+body 
+{
+    background-image: url("https://wallpaperaccess.com/full/635988.png");
+    background-size: cover;
+}
+#player1_name , #player2_name , #button
+{
+	display: inline-block;
+	margin-left: 20px;
+    color :  black;
+}
